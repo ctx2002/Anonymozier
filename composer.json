@@ -1,0 +1,14 @@
+{
+    "name": "devskiller/NAME",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": {
+            "": "app/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "phpunit/phpunit": "4.8.*",
+        "phing/phing": "2.*"
+    }
+}
