@@ -1,5 +1,9 @@
 # Introduction
 
+1> composer install
+
+vendor/bin/phing -f build/build.xml for testing
+
 You are working on auction platform. The service provides to its user ability to submit and search auctions. Company has to implement some privacy policy, for example, some personal data like emails, Skype usernames or phone numbers must be anonymized. 
 
 # Task definition
